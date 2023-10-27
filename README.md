@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NeilRvey
-- 👀 I’m interested in becoming a Software Developer
+- 👀 I’m interested in becoming a Web Developer
 - 🌱 I’m currently learning Javascript 
 - 📫 How to reach me
 - https://www.linkedin.com/in/neil-harvey-b-63166a275/
